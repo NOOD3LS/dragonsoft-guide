@@ -25,3 +25,9 @@ extra:
       link: https://instagram.com/dragonsoftgymsl
     - icon: fontawesome/solid/globe
       link: https://gymsl.agitalpro.de/
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
