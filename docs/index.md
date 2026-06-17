@@ -2,6 +2,12 @@
 
 Diese Website soll als Anleitung für das Lernspiel **„Das Gyms und das MINT-Orakel“** dienen.
 
+## __Registrierung__
+Um auf das Spiel zuzugreifen muss man sich mit einer Gymsl E-Mail addrese registrieren und auf einen Registrierungslink in der E-Mail klicken. 
+??? Info "Kommt keine Email an?"
+    Die Emails brauchen manchmal 2-3 Minuten bis die E-Mails in dem Postfach ankommen. Wenn nach 2-3 Minuten keine E-Mail im Postfach erscheint, einmal den Spam Ordner überprüfen.     
+    Wenn weitere Probleme auftauchen die Registrierung erneut versuchen, oder eine E-Mail an fritz.schirbel@gymsl.de schicken.
+
 ## __Steuerung__
 
 Das Gyms kann über die Tasten **WASD** gesteuert werden.
